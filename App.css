@@ -1,0 +1,14 @@
+div {
+    box-sizing: border-box;
+}
+
+#root,
+.app {
+    height: 100%;
+}
+
+.app {
+    background: #1297E0;
+    max-width:  500px;
+    margin: auto;
+}
